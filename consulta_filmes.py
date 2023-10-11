@@ -5,7 +5,7 @@ from tkinter import messagebox, font as tkFont
 from PIL import Image, ImageTk
 import io
 
-API_KEY = "e26f8751"
+API_KEY = "API KEY"
 
 
 def requisicao(titulo):
