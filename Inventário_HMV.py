@@ -4,7 +4,7 @@ import plotly.express as px
 
 # Carregar dados do arquivo Excel
 file_path = (
-    r"C:\Users\filipe.cavalcante\Desktop\sistema_inventario_novo\maquinashmv.xlsx"
+    r"Caminho_do_arquivo"
 )
 df = pd.read_excel(file_path)
 
